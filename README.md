@@ -108,11 +108,7 @@ This project is licensed under the **MIT License**. Use responsibly and ethicall
 ## 👨‍💻 Author
 
 **Bishal Poudel**
+
 💼 Cybersecurity & Systems Automation
 
----
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Armitage_logo.png" width="100" alt="Armitage Logo"/>
-</p>
 
