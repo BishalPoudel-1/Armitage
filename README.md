@@ -1,7 +1,6 @@
 
 ### 📄 `README.md`
 
-````markdown
 # Armitage and Metasploit Auto Setup Script (Arch Linux / BlackArch)
 
 This script automates the installation and configuration of **Metasploit**, **PostgreSQL**, and **Armitage** on Arch-based systems. It initializes the database, sets up user credentials, configures Metasploit, and launches Armitage with the required services.
@@ -89,9 +88,8 @@ This project is provided under the MIT License. Use at your own risk.
 
 ---
 
-**Author**: *Your Name*
+**Author**: *Bishal Poudel*
 **Version**: 1.0
 **Last Updated**: June 2025
 
-```
 
