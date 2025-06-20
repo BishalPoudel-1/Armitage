@@ -1,8 +1,6 @@
 <h1 align="center">⚔️ Armitage & Metasploit Auto Setup Script</h1>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Metasploit_logo.png/600px-Metasploit_logo.png" width="120" alt="Metasploit Logo"/>
-</p>
+
 
 <p align="center">
   🚀 Automate the full setup of <strong>Armitage</strong>, <strong>Metasploit</strong>, and <strong>PostgreSQL</strong> on Arch Linux or BlackArch.
@@ -35,7 +33,7 @@
 
 ```bash
 # 1. Download the script
-wget https://yourdomain.com/setup_armitage.sh
+git clone https://github.com/BishalPoudel-1/Armitage.git
 
 # 2. Make it executable
 chmod +x setup_armitage.sh
