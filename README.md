@@ -6,9 +6,6 @@
   🚀 Automate the full setup of <strong>Armitage</strong>, <strong>Metasploit</strong>, and <strong>PostgreSQL</strong> on Arch Linux or BlackArch.
 </p>
 
-# Start script image
-![image](https://github.com/user-attachments/assets/5c2e0635-b42c-48d6-b893-13df7c24b5ce)
-
 ---
 
 ## 📦 Features
@@ -49,6 +46,11 @@ sudo ./setup_armitage.sh
 
 * PostgreSQL **username**, **password**, and **database name**
 * msfrpcd **username** and **password**
+
+<p align="center">
+# Start script image
+![image](https://github.com/user-attachments/assets/5c2e0635-b42c-48d6-b893-13df7c24b5ce)
+</p>
 
 ---
 
