@@ -47,11 +47,10 @@ sudo ./setup_armitage.sh
 * PostgreSQL **username**, **password**, and **database name**
 * msfrpcd **username** and **password**
 
-<p align="center">
+
 # Start script image
 ![image](https://github.com/user-attachments/assets/ffe9f6d4-9b5c-4855-b861-adb69750470b)
 
-</p>
 
 ---
 
