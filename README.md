@@ -49,7 +49,8 @@ sudo ./setup_armitage.sh
 
 <p align="center">
 # Start script image
-![image](https://github.com/user-attachments/assets/5c2e0635-b42c-48d6-b893-13df7c24b5ce)
+![image](https://github.com/user-attachments/assets/ffe9f6d4-9b5c-4855-b861-adb69750470b)
+
 </p>
 
 ---
